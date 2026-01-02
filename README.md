@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm Omar!
+Full-stack developer. Mostly backend, but I ship whatever the project needs.
 
-I'm a full stack developer who primarily works with React.js, React Native, Node.js, and Express.js.
+I’ve worked a lot with Java, and around it you’ll find React, React Native, Node.js, Express, Vue, and friends (at this point I don’t really keep track of the stack anymore)
 
-I enjoy exploring new technologies and learning new skills to keep up with the ever-evolving tech landscape.
+Currently exploring AI & ML, mostly to explore new ways they can be used in products.
 
-I have worked on several projects, both for employers and as a volunteer, where I contributed to the development of web and mobile applications. I also have some repositories with personal projects that showcase my skills and knowledge.
+This GitHub is mainly for side projects, experiments, and things I want to share with the community.
+Most of my professional work lives on internal systems or private repos.
 
-You can also find me on [Linkedin](https://www.linkedin.com/in/omar-challaf/)
+If you want to discuss a project that isn’t here, or bounce ideas around, feel free to reach out.
 
-#### Let's connect and collaborate!
+[Linkedin](https://www.linkedin.com/in/omar-challaf/)
